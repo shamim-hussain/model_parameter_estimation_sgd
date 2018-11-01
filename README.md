@@ -8,6 +8,8 @@ This project aims to determine the model parameters (poles and zeros) of AR (aut
 * Build a loss fuction (or objective function) for matching the parameterized frequency domain representation to the original one.
 * Because this is a highly non-convex optimization problem with local minima and the loss function is intractable, SGD is used to solve the optimiztion problem.
 
+For more info regarding the math see "Math.pdf"
+
 Demo:
 * AR system in noise: https://www.youtube.com/watch?v=HT8WLNDcW-I
 
