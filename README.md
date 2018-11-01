@@ -1,5 +1,6 @@
 # Model Parameter Estimation by SGD
-This is a demonstration of the power of Stochastistic Gradient Descent for solving difficult non-convex optimization problems.
+This is a demonstration of the power of Stochastistic Gradient Descent for solving difficult non-convex optimization problems. Tensorflow
+is used for numerical implementation.
 
 This project aims to determine the model parameters (poles and zeros) of AR (auto-regressive) systems in noise and ARMA 
 (auto-regressive moving average) systems. To do so it:
