@@ -10,6 +10,9 @@ This project aims to determine the model parameters (poles and zeros) of AR (aut
 
 Demo:
 * AR system in noise: https://www.youtube.com/watch?v=HT8WLNDcW-I
+
 ![](https://i.imgur.com/joxV8Qj.gif)
+
 * ARMA system: https://www.youtube.com/watch?v=TSW2mzV_9lE
+
 ![](https://i.imgur.com/n4zAbtA.gif) 
